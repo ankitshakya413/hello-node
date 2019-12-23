@@ -4,4 +4,9 @@
     "scripts": {
       "test": "npm test"
     }
+    
+    "addons": [
+        "heroku-postgresql:hobby-basic"
+    ]
+    
 }
